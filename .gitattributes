@@ -1,0 +1,7 @@
+# 统一换行符，避免不同平台 clone 后脚本异常
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.pdf binary
+*.mp4 binary

@@ -1,0 +1,21 @@
+# 运行时产物
+downloads/
+papers/
+*.log
+
+# 本 skill 的输出报告（含具体 DOI 与本地路径，不宜提交）
+*_report.json
+verify_result.json
+links.json
+refs.json
+
+# 测试残留
+_*.json
+__pycache__/
+*.pyc
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
